@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+	font-family: 'Londrina Solid', cursive;
+  color: #1E1642;
+	text-align: center;
+}
+
+.header{
+	text-align: center;
+	font-family: 'Londrina Solid', cursive;
+	font-size: 4vw;
+}
+.header a{
+	color: #1E1642;
+	font-size:2vw;
+}
+h2{
+	font-size: 4vw;
+	text-align: center;
+}
+
+
+.intro{
+	text-align: center;
+}
+.sources{
+	text-align: center;
+	background-color: #e6bdb5;
+	color: white;
+	font-size: 2vw;
+	padding: 3vw;
+	width: 100vw;
+}
+.sources a{
+	color: white;
+}
